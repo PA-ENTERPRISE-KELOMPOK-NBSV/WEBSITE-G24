@@ -7,5 +7,3 @@
 #### Akun Pelanggan:
 - **Username**: nurulvta
 - **Password**: Nurulvita24
-
-Semoga ini membantu!
